@@ -35,6 +35,6 @@ Consulta la sección sobre [despliegue](https://facebook.github.io/create-react-
 
 Si no estás satisfecho con la configuración del proyecto, puedes ejecutar `eject` en cualquier momento. Este comando copiará todas las configuraciones y dependencias a tu proyecto, dándote control total sobre ellas.
 
-##Licencia
+###Licencia
 Este proyecto está bajo la MIT License.
 
