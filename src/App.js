@@ -98,7 +98,7 @@ export default function App() {
           {notFound ? (
             <div className="not-found-text">
             <p> lo siento no se encontro el pokemon que buscas.</p>
-            <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c319.png" alt="pokemon" className="pokemon" />
+            <img src="picachu.png" alt="pokemon" className="pokemon" />
             </div>
           ) : (
             <Pokedex

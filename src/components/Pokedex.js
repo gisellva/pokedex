@@ -20,7 +20,7 @@ const Pokedex = (props) => {
     <div>
       <div className="header">
         <h1>Pokedex</h1>
-        <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c31f.png" alt="pokemon" className="pokebola"  width={50} height={50}/>
+        <img src="pokebola.png" alt="pokemon" className="pokebola"  width={50} height={50}/>
         <Pagination
           page={page + 1}
           totalPages={total}
@@ -30,7 +30,7 @@ const Pokedex = (props) => {
       </div>
       {loading ? (
         <div className="loadin">
-          <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c32b.png" alt="pokemon" className="pokebola"  width={200} height={200}/>
+          <img src="pokemon.png" alt="pokemon-carga" className="pokebola"  width={200} height={200}/>
           <p className="parrafoloading">cargando pokemones.....</p>
         </div>
       ) : (

@@ -5,7 +5,7 @@
 body{
   font-family: 'Quicksand', sans-serif;
   background: rgb(63,94,251);
-  background: radial-gradient(circle, rgba(63,94,251,0.3495145631067961) 0%, rgba(251,252,70,0.3495145631067961) 100%);
+  background: radial-gradient(circle, rgba(251, 63, 223, 0.655) 0%, rgba(70, 206, 252, 0.321) 100%);
 }
 h1{
   font-size: 2.5rem;
